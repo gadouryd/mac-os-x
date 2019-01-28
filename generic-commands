@@ -1,0 +1,7 @@
+Show file extensions in Finder (https://www.lifewire.com/view-hidden-mac-folders-using-terminal-2260776)
+ `defaults write com.apple.finder AppleShowAllFiles TRUE`
+ 
+ 
+ `SetFile -a E`
+ 
+ 
